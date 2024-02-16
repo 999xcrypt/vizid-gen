@@ -1,23 +1,19 @@
 {
-  "token": "",  
+  "token": "",
   "username": "",
-  "password": "", 
-
+  "password": "",
   "port": "3000",
-  
-  "clientId": "00000000000000000",
-  "guildId": "0000000000000000000",
-
-  "status": "Made By ScienceGear 🔥",
-  "website": "https://youtube.com/ScienceGearYT",
+  "clientId": "1207874297998082178",
+  "guildId": "1205925515966419014",
+  "globalDeploy": false,
+  "status": "VIZID Gen Bot!",
+  "website": "https://xcrypt.xyz",
   "banner": "https://media.discordapp.net/attachments/960440723369517106/996423763522506782/rainbow-border.gif",
-  "footer": "Made By ScienceGear 🔥",
-
-  "genChannel": "00000000000000000000",
-  "premiumChannel": "00000000000000000000",
+  "footer": "VIZID Gen Bot 🔥",
+  "genChannel": "1207875473204453386",
+  "premiumChannel": "1207875594369630228",
   "genCooldown": "5",
   "premiumCooldown": "3",
-
   "color": {
     "green": "0x57F287",
     "yellow": "0xFEE75C",
